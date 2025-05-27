@@ -90,7 +90,7 @@ const Blog: React.FC = () => {
 
   return (
      <div className="flex flex-col items-center justify-center min-h-[60vh] text-center p-8">
-    <h1 className="text-5xl font-bold text-[#21204c] mb-4">
+    <h1 className="text-3xl font-bold text-[#21204c] mb-4">
       Our team is currently working on this page. Please check back soon!
     </h1>
     <p className="text-lg text-gray-700 mb-6">
