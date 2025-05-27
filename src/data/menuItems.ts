@@ -11,7 +11,7 @@ export const menuItems: MenuItem[] = [
     submenu: [
       { title: 'Our Team', path: '/about/team' },
       { title: 'Our Culture', path: '/about/culture' },
-      { title: 'Patners', path: '/about/tech-partners' },
+      { title: 'Partners', path: '/about/tech-partners' },
       { title: 'Leadership Principles', path: '/about/leadership' },
       
     ],
