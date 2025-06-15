@@ -103,6 +103,12 @@ const SessionBooking: React.FC = () => {
     .catch((error) => {
       // console.error("❌ User confirmation error:", error);
     });
+
+    
+    setShowPopup(true);
+    setTimeout(() => {
+      setShowPopup(false);
+    }, 2500); 
     
     
 
